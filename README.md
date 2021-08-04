@@ -1,4 +1,4 @@
-# G2M insight for Cab Investment firm
+# Go to Market (G2M) Insight for Cab Investment Firm
 
 **The Client**
 
