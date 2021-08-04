@@ -7,7 +7,7 @@ XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in las
 
 **DataSet** 
 
-Time period of data is from **2016/01/02**to **2018/12/31**.
+Time period of data is from **2016/01/02** to **2018/12/31**.
 
 **Cab_Data.csv -**  This file includes details of transaction for 2 cab companies.
 
@@ -18,4 +18,4 @@ Time period of data is from **2016/01/02**to **2018/12/31**.
 **City.csv -** This file contains list of US cities, their population and number of cab users.
 
 
-**Variables :**
+
