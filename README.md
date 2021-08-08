@@ -20,7 +20,7 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 
 **Variable Description***
 
-**Cab_data**
+*Cab_data*
 
 **Transaction ID** = Unique identify number to each passanger for transaction
 
@@ -36,7 +36,7 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 
 **Cost of Trip** = Amount of cost for travel
 
-**City**
+*City*
 
 **City** = City names
 
@@ -44,7 +44,7 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 
 **Users** = Population of cab users for each city
 
-**Customer_ID**
+*Customer_ID*
 
 **Customer ID** = Unique identify number for each passanger
 
@@ -54,7 +54,7 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 
 **Income (USD/Month)** = Amount of income for each passanger
 
-**Transaction_ID**
+*Transaction_ID*
 
 **Transaction ID** = Unique identify number to each passanger for transaction
 
