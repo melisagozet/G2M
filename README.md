@@ -23,30 +23,43 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 **Cab_data**
 
 **Transaction ID** = Unique identify number to each passanger for transaction
+
 **Date of Travel**
+
 **Company** = Preferred company for travel
+
 **City** = City of travel
+
 **KM Travelled** = Distance of travel
+
 **Price Charged** = Amount of money for travel
+
 **Cost of Trip** = Amount of cost for travel
 
 **City**
 
 **City** = City names
+
 **Population** = Population of cities
+
 **Users** = Population of cab users for each city
 
 **Customer_ID**
 
 **Customer ID** = Unique identify number for each passanger
+
 **Gender** = Gender of each passanger (Male/Female)
+
 **Age**= Age of each passanger
+
 **Income (USD/Month)** = Amount of income for each passanger
 
 **Transaction_ID**
 
 **Transaction ID** = Unique identify number to each passanger for transaction
+
 **Customer ID** = Unique identify number for each passanger
+
 **Payment_Mode** = Payment type, might be cash or card
 
 
