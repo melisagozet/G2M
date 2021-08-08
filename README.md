@@ -18,7 +18,7 @@ Time period of data is from **2016/01/02** to **2018/12/31**.
 **Transaction_ID.csv -** This is a mapping table that contains transaction to customer mapping and payment mode.
 
 
-**Variable Description***
+**Variable Description**
 
 *Cab_data*
 
